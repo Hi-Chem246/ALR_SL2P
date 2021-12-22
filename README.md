@@ -25,7 +25,7 @@ The following packages should be installed as follows:
 
 `conda install -c conda-forge folium -y`
 
-`conda install -c conda-forge geemap -y`
+`conda install geemap -c conda-forge`
 
 Activate the new environment:
 
